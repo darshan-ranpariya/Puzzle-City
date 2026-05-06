@@ -37,6 +37,7 @@ public class ApiCall : MonoBehaviour
 
     public void CallApi(bool isWin)
     {
+        return;
         Time.timeScale = 0;
         StartCoroutine(checkInternetConnection((isConnected) => {
             // handle connection status here

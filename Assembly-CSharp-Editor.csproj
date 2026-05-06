@@ -892,6 +892,9 @@
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Volumes/Data/Unity Projects/Puzzle-City/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>/Volumes/Data/Unity Projects/Puzzle-City/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.UI.Analytics">
       <HintPath>/Volumes/Data/Unity Projects/Puzzle-City/Library/ScriptAssemblies/UnityEditor.UI.Analytics.dll</HintPath>
     </Reference>
